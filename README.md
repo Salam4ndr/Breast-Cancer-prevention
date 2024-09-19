@@ -10,7 +10,7 @@ The dataset was created by the University of Wisconsin. It considered 569 cases 
 
 ## Why was this type of analysis chosen? 
 
-![App Screenshot](images\breast cancer stages.png)
+![App Screenshot](breast cancer stages.png)
 
 ## Dataset
 
@@ -18,7 +18,7 @@ The parameters under examination were obtained from digital images of breast nod
 
 (Needle biopsy = diagnostic procedure in which a sample of a mass suspected of being pathological is taken with a thin needle, in order to analyze it under a microscope in the laboratory)
 
-![App Screenshot](images\breast in medical visit.png)
+![App Screenshot](breast in medical visit.png
 
 Dataset attribute information:
 
