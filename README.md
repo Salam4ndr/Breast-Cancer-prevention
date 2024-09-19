@@ -18,7 +18,7 @@ The parameters under examination were obtained from digital images of breast nod
 
 (Needle biopsy = diagnostic procedure in which a sample of a mass suspected of being pathological is taken with a thin needle, in order to analyze it under a microscope in the laboratory)
 
-![App Screenshot](breast_inmedical_visit.png)
+![App Screenshot](breast_in_medical_visit.png)
 
 Dataset attribute information:
 
